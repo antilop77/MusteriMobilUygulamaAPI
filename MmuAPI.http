@@ -1,0 +1,6 @@
+@MmuAPI_HostAddress = http://localhost:9300
+
+GET {{MmuAPI_HostAddress}}/mmu/
+Accept: application/json
+
+###
